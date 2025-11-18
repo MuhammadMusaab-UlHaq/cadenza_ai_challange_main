@@ -1,0 +1,9 @@
+Internal Validation Set Performance
+==================================================
+RMSE: 0.2638
+NCC (Pearson's r): 0.6658
+Number of samples: 881
+Mean predicted: 0.3609
+Mean actual: 0.3834
+Std predicted: 0.2236
+Std actual: 0.3520
